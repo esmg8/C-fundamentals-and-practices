@@ -19,6 +19,7 @@ A structured collection of C programming exercises, ranging from basic input/out
 - Restaurant Ordering System
 - Miles to Kilometers Converter
 - Celcius to Fahrenheit Converter
+- -Array & Pointer Toolkit
 
 --- 
 
